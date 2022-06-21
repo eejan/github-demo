@@ -1,2 +1,7 @@
 Test Git Quick Start demo
+<<<<<<< HEAD
 foo
+=======
+this is a quick modification
+
+>>>>>>> 5af7316b53fa827858623e135cc488917315af9e
